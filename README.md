@@ -2,6 +2,18 @@
 
 Commandline tool for batch renaming files using regular expressions.
 
+## Installation
+
+```sh
+pip install barenames
+```
+
+or
+
+```sh
+python3 -m pip install barenames
+```
+
 ## Usage
 
 ```
