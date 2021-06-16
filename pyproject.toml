@@ -6,6 +6,7 @@ readme = "README.md"
 authors = ["Crystal Melting Dot <stresspassing@gmail.com>"]
 homepage = "https://github.com/cmd410/barenames"
 repository = "https://github.com/cmd410/barenames"
+license = "LGPL-2.1-only"
 
 [tool.poetry.dependencies]
 python = "^3.9"
