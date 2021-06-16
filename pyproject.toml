@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "barenames"
-version = "0.1.1"
+version = "0.1.2"
 description = "Batch file rename tool"
 readme = "README.md"
 authors = ["Crystal Melting Dot <stresspassing@gmail.com>"]
