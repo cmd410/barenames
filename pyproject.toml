@@ -1,8 +1,11 @@
 [tool.poetry]
 name = "barenames"
-version = "0.1.0"
-description = ""
+version = "0.1.1"
+description = "Batch file rename tool"
+readme = "README.md"
 authors = ["Crystal Melting Dot <stresspassing@gmail.com>"]
+homepage = "https://github.com/cmd410/barenames"
+repository = "https://github.com/cmd410/barenames"
 
 [tool.poetry.dependencies]
 python = "^3.9"
